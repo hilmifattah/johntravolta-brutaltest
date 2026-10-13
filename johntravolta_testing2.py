@@ -1,5 +1,5 @@
 def hitung_keuangan(jam_kerja, pengeluaran):
-    tarif_normal = 15000
+    tarif_normal = 20000
     batas_normal = 40
     tarif_lembur = tarif_normal * 1.5
     
